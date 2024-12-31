@@ -18,4 +18,4 @@ Check out the live version here: [Visit the Website](https://glittering-cannoli-
 ## Installation  
 1. Clone this repository to your local machine:  
    ```bash  
-   git clone https://github.com/yourusername/your-repo-name.git  
+   git clone https://github.com/Edifierx8/HTMS/24.git  
